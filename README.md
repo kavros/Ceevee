@@ -22,3 +22,8 @@ Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitte
 
 <a href="http://trendytheme.net/" target="_blank">&copy; TrendyTheme </a>
 
+#TO DO
+- add some link about compiler or remove it.
+- change link from kavros.gitlab.io to kavroulakisalexis.gitlab.io/ alexiskavroulakis.com.
+- change skill progress bar to histogram like this -> http://sergiopedercini.com/.
+- change home section photo.
