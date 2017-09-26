@@ -9,7 +9,7 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 - <a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a>
 - <a href="https://github.com/protonet/jquery.inview" target="_blank">Inview JS</a>
 - <a href="http://vestride.github.io/Shuffle/" target="_blank">Shuffle</a>
-- <a href="http://trendytheme.net/demo/iamx/v/" target="_blank">Template Demo</a>
+- <a href="https://github.com/ahmedfaruk" target="_blank">Ahmed Faruk</a>
 
 
 #To do
