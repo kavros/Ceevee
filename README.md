@@ -24,6 +24,5 @@ Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitte
 
 #TO DO/NEED FIX 
 - add some link about compiler or remove it.
-- change link from kavros.gitlab.io to kavroulakisalexis.gitlab.io/ alexiskavroulakis.com.
 - change skill progress bar to histogram like this -> http://sergiopedercini.com/.
 - change home section photo.
