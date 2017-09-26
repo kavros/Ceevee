@@ -27,4 +27,3 @@ Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitte
 - change link from kavros.gitlab.io to kavroulakisalexis.gitlab.io/ alexiskavroulakis.com.
 - change skill progress bar to histogram like this -> http://sergiopedercini.com/.
 - change home section photo.
-- github supports only static webpages so the section "send me a message" does not work.
