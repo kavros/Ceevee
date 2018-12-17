@@ -1,8 +1,11 @@
 
-#License: 
+# Overview
+A repository for [my personal page](http://www.alexiskavroulakis.com)
+
+# License: 
 Use it freely but please do not republish, distribute or sell "as-is". Please credit the designer and developer when you use it in your project.
 
-#Credits: 
+# Credits: 
 - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
 - <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
 - <a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a>
@@ -12,7 +15,3 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 - <a href="https://github.com/ahmedfaruk" target="_blank">Ahmed Faruk</a>
 
 
-#To do
-- add some link about compiler or remove it.
-- change skill progress bar to histogram like this -> http://sergiopedercini.com/.
-- change home section photo.
